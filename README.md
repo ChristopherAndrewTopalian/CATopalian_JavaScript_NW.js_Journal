@@ -16,7 +16,7 @@ To run this application we:
 * Download NW.js
 * Extract All
 * Find the nw.exe icon
-* Drag the src folder onto the nw.exe icon  
+* Drag the folder named CATopalian_JavaScript_NW.js_Journal onto the nw.exe icon  
 
 Full Instructions on Running ourFirstApp here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
 
