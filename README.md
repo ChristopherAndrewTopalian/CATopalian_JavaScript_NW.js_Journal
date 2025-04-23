@@ -18,7 +18,7 @@ To run this application we:
 * Find the nw.exe icon
 * Drag the folder named CATopalian_JavaScript_NW.js_Journal onto the nw.exe icon  
 
-Full Instructions on Running ourFirstApp here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
+Full Instructions on Running our app here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
 
 ---
 
