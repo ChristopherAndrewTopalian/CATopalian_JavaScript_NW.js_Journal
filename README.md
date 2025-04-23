@@ -5,6 +5,23 @@ A JavaScript NW.js Node.js application that allows the person to input a text en
 
 ---
 
+REQUIREMENTS:
+
+NW.js  
+https://nwjs.io/  
+
+---
+
+To run this application we:
+* Download NW.js
+* Extract All
+* Find the nw.exe icon
+* Drag the src folder onto the nw.exe icon  
+
+Full Instructions on Running ourFirstApp here: https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_NW.js
+
+---
+
 ### How to Download this App
 1. Click the green Code Button on this github page
 2. Choose Download ZIP
